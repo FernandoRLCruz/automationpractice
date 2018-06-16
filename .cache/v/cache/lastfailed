@@ -1,4 +1,5 @@
 {
   "TestAutomation.py": true,
-  "TestPages.py": true
+  "TestPages.py": true,
+  "TestPages.py::MyTestCase::test_sign_in_button": true
 }
